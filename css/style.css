@@ -1,0 +1,18 @@
+body {
+	background: url("/home/mrrobot/Desktop/Moringa-school-projects/Project-GameCon/images/minecraft2.jpg");
+}
+
+.hello {
+    width: 50%;
+    box-shadow: 2px 2px 12px rgba(0, 0,0, 0.44);
+    line-height:24px;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 32px;
+}
+
+.hello a {
+	color:white;
+	font-size:17px;
+}
+
