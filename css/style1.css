@@ -1,0 +1,35 @@
+body {    
+        background: url("/home/mrrobot/Desktop/Moringa-school-projects/Project-GameCon/images/callofduty2.jpg");    
+}    
+    
+.hello {    
+    width: 50%;    
+    box-shadow: 12px 12px 27px 12px rgba(0, 0,0, 0.56);    
+    padding: 46px;    
+    border-radius: 5px;    
+    margin-top: 100px;    
+    margin-left:315px;    
+    background:rgba(0, 36,48,0.9);     
+    height:430px;    
+}    
+    
+.hello h2 {    
+        color:white;    
+        text-align:center;    
+}    
+    
+.hello a {    
+        color:#24ff24;    
+        font-size:19px;    
+        line-height:31px;    
+}    
+    
+.never {    
+        width:20%;    
+}    
+    
+.header {    
+        line-height:21px;    
+        background:#8e158b;    
+    
+} 
